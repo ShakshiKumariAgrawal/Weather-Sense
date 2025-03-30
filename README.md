@@ -45,7 +45,7 @@ npm -v   # Latest is best!
 ### 🎮 Installation
 🔹 Clone the project
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/weather-dashboard.git
+git clone https://github.com/ShakshiKumariAgrawal/Weather-Sense.git
 cd weather-dashboard
 ```
 
@@ -86,23 +86,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=m
 ---
 
 ## 🚀 Deployment
-### 🌐 Deploy with Vercel
-```sh
-npm install -g vercel
-vercel
-```
 
-### 🌐 Deploy with Netlify
-```sh
-npm install -g netlify-cli
-netlify deploy
-```
-
-### 🌐 Deploy with GitHub Pages
-```sh
-npm install gh-pages --save-dev
-npm run deploy
-```
 
 ---
 
