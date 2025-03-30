@@ -1,4 +1,4 @@
-## 🌦️ Weather Dashboard Web App
+## 🌦️ Weather-Sense Web App
 
 📽️ **Demo Video of Application:**  
 <div align="center">
