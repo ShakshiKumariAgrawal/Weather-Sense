@@ -9,7 +9,7 @@
 ## 🌟 Overview
 Ever wondered what the weather is like in any city? Our **Weather-Sense** provides real-time updates with a sleek and modern UI. ☁️🌍
 
-##**LIVE DEMO LINK : **https://weather-sense11.netlify.app/
+##LIVE DEMO LINK : https://weather-sense11.netlify.app/
 
 _"Your go-to app for checking live weather conditions!"_ - Happy User 🌟
 
